@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tlakuache123&label=Profile%20views&color=0e75b6&style=flat" alt="tlakuache123" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **FastAPI**
 
-- 💬 Ask me about **react, express, tailwindcss**
+- 💬 Ask me about **NodeJS, Typescript, NestJS, Python**
 
 - 📫 How to reach me **araujoclaudiodev@gmail.com**
 
